@@ -1,0 +1,1 @@
+Truncate table  Dbo.t_ARTcsv1;

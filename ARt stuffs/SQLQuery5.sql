@@ -1,0 +1,1 @@
+select* from dbo.artcsv1 where Artwork_id=3620;
